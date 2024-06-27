@@ -1,0 +1,43 @@
+Costo base” = “peso en gramos de la  carta” * tarifa 
+“Costo IVA” = 21%/100% * “Costo Base”
+“Costo total” = “Costo base” + “costo IVA”;
+
+primer empresa
+
+postal:3100                  
+peso: 12
+tipo: 2    	(12*1) costo base =12  |||||| CostoIVA = 21/100 * costo base = 2,52	total empresa 1: 24,5025
+		
+		total = costo base + CostoIVA = 14,52
+postal: 2100
+peso: 15
+tipo: 1		15*0,55) costo base =8,25  |||||| CostoIVA = 21/100 * costo base = 1,7325
+		
+		total = costo base + CostoIVA = 9,9825
+
+empresa 2
+
+postal:4500
+peso: 4
+tipo : 2	4*1) costo base =4  |||||| CostoIVA = 21/100 * costo base = 0,84	total empresa 2:16,94				{rec total entre las empresas}
+		
+		total = costo base + CostoIVA = 4,84											{         52,0905            }
+
+postal: 1360
+peso: 10
+tipo: 2		10*1) costo base =10  |||||| CostoIVA = 21/100 * costo base = 2,1
+		
+		total = costo base + CostoIVA = 12,1
+empresa 3
+
+postal:6010
+peso: 4
+tipo:1		4*0,55) costo base =2,2  |||||| CostoIVA = 21/100 * costo base = 0,462      total empresa 3:10,648 
+		
+		total = costo base + CostoIVA = 2,662
+
+postal: 6700
+peso: 12
+tipo:1		12*0,55) costo base = 6,6  |||||| CostoIVA = 21/100 * costo base = 1,386
+		
+		total = costo base + CostoIVA = 7,986
